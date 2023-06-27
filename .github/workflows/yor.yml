@@ -16,4 +16,4 @@ jobs:
         with:
           fetch-depth: 0
       - name: Run yor action
-        uses: bridgecrewio/yor-action@master
+        uses: bridgecrewio/yor-action@main
